@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#-objetivo-">✨ Objetivo</a> |
   <a href="#-tecnologias-utilizadas-">Tecnologias</a> |
+  <a href="#-slide-de-apresentação-">Slides de Apresentação</a> |
   <a href="#-autores-do-projeto-">Autores ✨</a>
 </p>
 
