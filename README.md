@@ -1,4 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=4169E1&text=📊%20Regressão%20Linear%20Simples%20e%20Múltipla%20📊&section=header&reversal=false&fontSize=30&fontColor=BBD2EC&fontAlignY=65)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF6400&text=📊%20Regressão%20Linear%20Simples%20e%20Múltipla%20📊&section=header&reversal=false&fontSize=30&fontColor=FFA500&fontAlignY=65)
 
 <p align="center">
   <a href="#-objetivo-">✨ Objetivo</a> |
@@ -31,4 +31,4 @@ A ideia do projeto é pegarmos uma tabela de dados e trabalhar em cima dela gera
 #### Humberto Pellegrini ⬇️
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Humbertin07)
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=4169E1&text=👋🏻%20Até%20a%20Próxima!!%20👋🏻&section=footer&reversal=false&fontSize=30&fontColor=BBD2EC&fontAlignY=40)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=130&color=FF6400&text=👋🏻%20Até%20a%20Próxima!!%20👋🏻&section=footer&reversal=false&fontSize=30&fontColor=FFA500&fontAlignY=40)
